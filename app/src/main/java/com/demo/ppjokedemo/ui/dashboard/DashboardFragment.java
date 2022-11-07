@@ -12,7 +12,7 @@ import androidx.lifecycle.ViewModelProvider;
 
 import com.demo.libnavannotation.FragmentDestination;
 import com.demo.ppjokedemo.databinding.FragmentDashboardBinding;
-@FragmentDestination(pageUrl = "main/tabs/dash",asStarter = false)
+@FragmentDestination(pageUrl = "main/tabs/sofa",asStarter = false)
 public class DashboardFragment extends Fragment {
 
     private FragmentDashboardBinding binding;

@@ -13,7 +13,7 @@ import androidx.lifecycle.ViewModelProvider;
 import com.demo.libnavannotation.FragmentDestination;
 import com.demo.ppjokedemo.databinding.FragmentNotificationsBinding;
 
-@FragmentDestination(pageUrl = "main/tabs/notification",asStarter = false)
+@FragmentDestination(pageUrl = "main/tabs/find",asStarter = false)
 public class NotificationsFragment extends Fragment {
 
     private FragmentNotificationsBinding binding;
